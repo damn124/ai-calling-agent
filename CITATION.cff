@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "AI Calling Agent"
+abstract: "A real-time voice AI system that integrates OpenAI's Realtime API with Twilio Voice to create intelligent voice conversations. Perfect for customer service, compliance monitoring, and automated calling systems."
+authors:
+  - family-names: "Fardin"
+    given-names: "Mahmud Ahad Abedin Fardin"
+    orcid: ""
+    affiliation: ""
+  - family-names: "Azad"
+    given-names: "Riana"
+    orcid: ""
+    affiliation: ""
+repository-code: "https://github.com/intellwe/ai-calling-agent"
+url: "https://github.com/intellwe/ai-calling-agent"
+license: MIT
+keywords:
+  - "artificial intelligence"
+  - "voice assistant"
+  - "openai"
+  - "twilio"
+  - "realtime api"
+  - "voice automation"
+  - "fastapi"
+  - "websockets"
+version: "1.0.0"
+date-released: "2025-09-06"
