@@ -1,0 +1,8 @@
+# Core dependencies
+fastapi
+uvicorn
+websockets
+pydantic
+python-dotenv
+openai
+twilio

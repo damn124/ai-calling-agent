@@ -1,0 +1,21 @@
+# Development dependencies
+-r requirements.txt
+
+# Code formatting and linting
+black
+flake8
+isort
+
+# Testing
+pytest
+pytest-asyncio
+httpx
+
+# Type checking
+mypy
+
+# Security scanning
+bandit
+
+# Pre-commit hooks
+pre-commit
